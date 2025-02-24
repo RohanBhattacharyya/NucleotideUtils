@@ -3,7 +3,7 @@
 ### Created by:
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-rohan-blue?logo=github)](https://github.com/RohanBhattacharyya)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-eric-blue?logo=github)](https://github.com/https://github.com/ericshu6)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-eric-blue?logo=github)](https://github.com/ericshu6)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-mostly%20by%20humans-green?logo=openai)](https://chatgpt.com)
 
 **Features**
