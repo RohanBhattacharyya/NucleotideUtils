@@ -31,9 +31,6 @@ thing = {
     '5': CtoP,
 }
 
-
-print("Running the thing")
-
 try:
     thing[choice]()
 except:
