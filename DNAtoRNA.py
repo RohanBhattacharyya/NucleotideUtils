@@ -8,5 +8,4 @@ nucleotide_mapping = {
 }
 
 def d2r():
-    print("HELLO")
     invert(nucleotide_mapping)
